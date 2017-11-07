@@ -1,2 +1,2 @@
-# micro-bit-sendmsgtoProcessing
-micro:bit sendmsgtoProcessing
+# Send message to micro:bit from Processing via serial communication.
+
